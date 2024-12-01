@@ -38,7 +38,7 @@ To help millions of people transition into product management roles by offering 
 To access UpskillPM content and resources, follow these steps:  
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/upskillpm.git
+   git clone https://github.com/aly-coding/upskillpm.git
    cd upskillpm
    ```  
 2. **Explore the Modules**: Browse the course content in the `/modules` directory.  
